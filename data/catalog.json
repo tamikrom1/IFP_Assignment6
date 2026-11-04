@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "sku": "LAPTOP-15",    "name": "Laptop 15\"",       "unitPrice": 1200.00, "stock": 10,  "active": true  },
+    { "sku": "MOUSE-01",     "name": "Wireless Mouse",    "unitPrice": 25.50,   "stock": 100, "active": true  },
+    { "sku": "CABLE-USB",    "name": "USB Cable",         "unitPrice": 5.00,    "stock": 0,   "active": true  },
+    { "sku": "STICKER-FREE", "name": "Free Sticker",      "unitPrice": 0,       "stock": 50,  "active": true  },
+    { "sku": "KEYBOARD-OLD", "name": "Legacy Keyboard",   "unitPrice": 40.00,   "stock": 5,    "active": false }
+  ],
+  "discountCodes": { "WELCOME10": 10, "VIP25": 25, "PLAIN": 0 }
+}
